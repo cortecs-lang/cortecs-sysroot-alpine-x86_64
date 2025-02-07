@@ -4,4 +4,6 @@ exports_files([
     "libunwind-dev-1.8.1-r0.apk",
     "libunwind-static-1.8.1-r0.apk",
     "musl-dev-1.2.5-r8.apk",
+    "xz-dev-5.6.4-r0.apk",
+    "xz-static-5.6.4-r0.apk",
 ])
